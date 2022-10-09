@@ -1,6 +1,6 @@
 package br.com.fiap.tds;
 
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 public class ControleIPVA {
 

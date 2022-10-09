@@ -8,5 +8,6 @@ public class OlaMundo {
 
         String primeiraVariavel = "FIAP - Olá Mundo!";
         System.out.println(primeiraVariavel);
+
     }
 }
